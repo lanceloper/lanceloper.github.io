@@ -2,5 +2,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 remote_theme: pages-themes/hacker@v0.2.0
-title: Lance Loper's homepage
-description: Hi, my name is Lance. I am a CompSci major with an emphasis in Machine Learning. I'm having an awesome time learning everything this semester and look forward to what the future holds. 
+title: Lance Loper
+description: Example GitHub page for CS155
